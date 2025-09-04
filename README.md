@@ -1,6 +1,6 @@
 # Demoody For Change - NGO Website
 
-A professional, production-level website for Demoody For Change, an NGO initiative by entrepreneur Sk Wasim Akram (Wassu).
+A professional, production-level website for Demoody For Change, an NGO initiative by entrepreneur Sk Wasim Akram.
 
 ## Overview
 

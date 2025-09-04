@@ -9,7 +9,7 @@ Place the following images in this `assets/` folder:
 - `hero-image.jpg` - Main hero section image showing social impact (recommended: 800x600px)
 
 ## About Section
-- `founder.jpg` - Photo of Sk Wasim Akram (Wassu) (recommended: 400x500px)
+- `founder.jpg` - Photo of Sk Wasim Akram (recommended: 400x500px)
 
 ## Causes/Work Section
 - `donation-drives.jpg` - Image showing donation activities
